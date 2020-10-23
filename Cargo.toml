@@ -1,0 +1,8 @@
+[package]
+name = "gpio-button"
+version = "0.1.0"
+authors = ["George Thomas <georgefsthomas@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+gpio = "0.4.1"
